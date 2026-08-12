@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/jeaviit"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/jeaviit-bhaat/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://www.instagram.com/jeaviitai"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
   <a href="mailto:jeaviitbhaat@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
@@ -16,16 +16,16 @@
 
 ### 👨‍💻 About Me
 
-- 🤖 I design and build AI voice agents, automation workflows, and dashboards for businesses
+- 🤖 I design and build AI automation, voice agents, and dashboards for businesses
 - 🛠️ Currently building and shipping projects in my [Portfolio](https://github.com/jeaviit/Portfolio)
 - 🌱 Deep diving into RAG and multi-agent workflows
-- 💬 Ask me about Voice AI, n8n automation, or AI agent workflows
+- 💬 Ask me about AI automation, Voice AI, or AI agent workflows
 - 📍 Based in Mumbai, India
 - 📫 Reach me at jeaviitbhaat@gmail.com
 
 ---
 
-### 🧰 Tech Stack
+### 🧰 Skills & Tech Stack
 
 <p align="left">
   <img src="https://img.shields.io/badge/AI_and_Automation-8A2BE2?style=for-the-badge" />
