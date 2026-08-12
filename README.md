@@ -16,10 +16,10 @@
 
 ### 👨‍💻 About Me
 
-- 🤖 I design and build AI automation, voice agents, and dashboards for businesses
+- 🤖 I design and build AI automation, voice agents, dashboards, CRMs and systems for businesses
 - 🛠️ Currently building and shipping projects in my [Portfolio](https://github.com/jeaviit/Portfolio)
 - 🌱 Deep diving into RAG and multi-agent workflows
-- 💬 Ask me about AI automation, Voice AI, or AI agent workflows
+- 💬 Ask me about AI automation, Voice AI, or AI agents and  workflows
 - 📍 Based in Mumbai, India
 - 📫 Reach me at jeaviitbhaat@gmail.com
 
